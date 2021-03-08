@@ -397,7 +397,7 @@ nav {
 
   .read-more {
     text-transform: uppercase;
-    font-size: 15px;
+    font-size: 14px;
   }
 }
 
@@ -471,11 +471,13 @@ body:after {
   text-align: center;
   color: #939aa1;
   letter-spacing: 2px;
+  font-size: 17px;
 }
 
 .post_date{
   //text-align: center;
   color: #939aa1;
+  font-size: 14px;
 }
 
 .cd-container a {
@@ -701,12 +703,13 @@ Modules - reusable parts of our design
 }
 
 .post-tags a {
-  font-size: 14.5px;
-  padding: 2px 13px;
-  border: none;
-  background-color: #4CAF50;
-  border-radius: 50px;
-  color: #fff;
+  font-size: 11px;
+  padding: 8px 16px;
+  border: 2px solid #939aa1;
+  //background-color: #4CAF50;
+  border-radius: 30px;
+  color: #6a6d76;
+  text-transform: uppercase;
 }
 
 .pagination a, .pagination span {
